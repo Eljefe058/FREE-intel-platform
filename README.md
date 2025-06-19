@@ -53,7 +53,7 @@ This project welcomes anonymous and public contributors.
 
 - **Matrix**: (room coming soon)
 - **Session**: (Session ID coming soon)
-- **Email**: [optional ProtonMail here]
+- **Email**:
 
 ---
 
